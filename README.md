@@ -19,8 +19,8 @@ This coding quiz was created to help new programmers test their knowledge with b
 
 ## Wesbite Preview
 
-### <ins>[Coding Quiz]()</ins>
+### <ins>[Coding Quiz](https://soumpholphakdy.github.io/Coding-quiz/)</ins>
 
 <br>
 
-![Preview of homepage](./assets/Images/quizScreenshot.png)
+![Preview of homepage](./assets/images/quizScreenshot.png)
